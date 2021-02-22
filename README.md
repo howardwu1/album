@@ -1,12 +1,12 @@
 # album
 
-##Install Go
+## Install Go
 
 Go to this link to get the instructions to install the latest version of Go
 https://golang.org/doc/install
 
 
-##Run/Test Application
+## Run/Test Application
 
 Run the console application
 ```bash
@@ -18,7 +18,7 @@ Test the console application
 go test
 ```
 
-##Using the Application
+## Using the Application
 
 Wait for the prompt to ask for the photo-album number and then enter a positive integer. Here's an example with 10:
 ```bash
