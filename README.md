@@ -43,3 +43,4 @@ Negative integers and non-integer strings will trigger a message as well:
 Please re-enter a valid positive integer for the photo-album
 ```
 
+Entering an album number of 0 will quit the program.
